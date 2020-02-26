@@ -15,6 +15,7 @@ jobs:
     steps:
       - uses: actions/checkout@master
       - uses: actions/setup-node@master
+      - name: Install depends
         run: |
           npm install markdownlint-cli
           node_modules/.bin/markdownlint ./ --ignore node_modules
