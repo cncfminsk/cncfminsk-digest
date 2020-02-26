@@ -1,0 +1,17 @@
+name: Markdown Checks
+
+on: push
+
+jobs:
+  markdown-link-check:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - uses: gaurav-nelson/github-action-markdown-link-check@0.6.0
+      with:
+        use-verbose-mode: 'yes'
+  markdown-lint:
+    runs-on: [ubuntu-latest]
+    steps:
+      - uses: avto-dev/markdown-lint@v1.1.0
+        
