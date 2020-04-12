@@ -3,7 +3,7 @@
 Над дайджестом работали: [Viachaslau Kizimenko](https://www.linkedin.com/in/viachaslau-kizimenko-185144115/), [Egor Miasnikov](https://www.linkedin.com/in/miasnikov/) и [Alex Lubowski](https://www.linkedin.com/in/miasnikov/)
 👉[Чат сообщества ☁️](https://t.me/CNCFMinskChat)
 
-## Новости - ДОБАВИТЬ АЛЕКСА НУЖЕН LINKEDIN!
+## Новости
 
 ### [HashiCorp Deepens Integrations with Kubernetes and CNCF Projects](https://thenewstack.io/hashicorp-deepens-integrations-with-kubernetes-and-cncf-projects/)
 
