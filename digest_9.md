@@ -5,6 +5,10 @@
 
 ## Новости
 
+### [GitHub is now free for teams](https://github.blog/2020-04-14-github-is-now-free-for-teams/)
+
+Приватные репозитории с неограниченным количеством соавторов доступны для всех учетных записей GitHub. Все основные функции GitHub теперь бесплатны для всех участников.
+
 ### [HashiCorp Deepens Integrations with Kubernetes and CNCF Projects](https://thenewstack.io/hashicorp-deepens-integrations-with-kubernetes-and-cncf-projects/)
 
 HashiCorp официально присоединилась к Cloud Native Computing Foundation (CNCF), чтобы углубить взаимодействие с сообществом и обеспечить официальную поддержку интеграции проектов.
@@ -26,3 +30,7 @@ HashiCorp официально присоединилась к Cloud Native Comp
 ### [Join SIG Scalability and Learn Kubernetes the Hard Way](https://kubernetes.io/blog/2020/03/19/join-sig-scalability/)
 
 Вклад в SIG Scalability - это отличный способ изучить Kubernetes во всей его глубине и широте, и команда была бы рада, если бы вы присоединились в качестве участника. Автор статьи посмотрел на ценность процесса обучения и взял интервью у нынешних руководителей SIG, чтобы дать вам представление о том, каково это –делать свой вклад в SIG.
+
+### [Migrating from Helm v2 to v3](https://geeksocket.in/posts/helm-2-3-migration/)
+
+Версия 3 Helm, менеджера пакетов для Kubernetes, была выпущена несколько месяцев назад. В этом выпуске появилось много новых изменений и улучшений. Автор статьи делится своими впечатлениями от настройки кластера на бета-версии v3 и рассказывает о процессе миграции.
