@@ -17,6 +17,11 @@ HashiCorp официально присоединилась к Cloud Native Comp
 
 25 марта состоялся очередной релиз Kubernetes — 1.18. В статье описаны наиболее значимые изменения в новой версии: профили планирования, настраиваемая скорость масштабирования в HPA, менеджер топологии узла переведён в статус бета-версии, добавлена альфа-версия команды kubectl debug, которая развила концепцию «эфемерных контейнеров».
 
+### [Trow, a Container Registry to Run Inside Your Kubernetes Cluster](https://thenewstack.io/trow-a-container-registry-to-run-inside-a-kubernetes-cluster/)
+
+Сегодня большинство реестров контейнеров работают независимо от кластеров, которые запускают контейнеры, построенные на основе образов. Но запуск реестра в самом кластере может дать много преимуществ, включая более быструю загрузку, лучший аудит и больший контроль над пространством имен. 
+Чтобы проверить эту идею, компания Container Solutions создает совместимую с OCI систему регистрации и управления образами Trow, которая работает в кластере Kubernetes.
+
 ## Статьи
 
 ### [How to Secure Your Kubernetes Cluster on GKE](https://devops.com/how-to-secure-your-kubernetes-cluster-on-gke/)
@@ -34,3 +39,17 @@ HashiCorp официально присоединилась к Cloud Native Comp
 ### [Migrating from Helm v2 to v3](https://geeksocket.in/posts/helm-2-3-migration/)
 
 Версия 3 Helm, менеджера пакетов для Kubernetes, была выпущена несколько месяцев назад. В этом выпуске появилось много новых изменений и улучшений. Автор статьи делится своими впечатлениями от настройки кластера на бета-версии v3 и рассказывает о процессе миграции.
+
+## Вебинары
+
+### [Infrastructure as Code on AWS](https://pages.awscloud.com/AWS-Online-Tech-Talks_2020_0403-DEV.html)
+
+20 апреля 2020 / Присоединяйтесь к этому вебинару, чтобы узнать, как использовать AWS CloudFormation и AWS CDK для обеспечения и управления инфраструктурой, развертывания кода и автоматизации процессов релиза программного обеспечения. 
+
+### [CNCF Project Webinar: What’s New in Kubernetes 1.18](https://www.ibm.com/easytools/runtime/hspx/prod/public/X0033/Webinars/docid/23aeb7c6d0974149af3bb67efd41e3be?x_view=X0033/Webinars/EventDetail)
+
+23 апреля 2020 / Команда разработчиков релиза расскажет о новых возможностях Kubernetes 1.18. В вебинаре участвуют: Jeremy Rickard, Enhancements Lead, Jorge Alacron, Release Lead, and Karen Chu, Communications Lead.
+
+### [Breaking New Ground: Cloud Native Data Protection for Kubernetes](https://www.brighttalk.com/webcast/13935/390452?utm_source=brighttalk-portal&utm_medium=web&utm_content=cloud%20native&utm_campaign=webcasts-search-results-feed)
+
+30 апреля 202 / В ходе вебинара представители Dell EMC расскажут о том, какие новые возможности предоставляются разработчикам для защиты критически важных рабочих нагрузок, обеспечивая полностью автоматизированную схему защиты в процессе релиза, предлагая при этом кроссплатформенное управление защитой облачных приложений.
