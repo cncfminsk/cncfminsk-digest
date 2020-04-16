@@ -1,6 +1,6 @@
 ![CNCF Minsk cover](https://raw.githubusercontent.com/cncfminsk/digest/master/Digest_cover.jpg)
 
-Над дайджестом работали: [Viachaslau Kizimenko](https://www.linkedin.com/in/viachaslau-kizimenko-185144115/), [Egor Miasnikov](https://www.linkedin.com/in/miasnikov/) и [Alex Lubowski](https://www.linkedin.com/in/miasnikov/)
+Над дайджестом работали: [Viachaslau Kizimenko](https://www.linkedin.com/in/viachaslau-kizimenko-185144115/), [Egor Miasnikov](https://www.linkedin.com/in/miasnikov/) и [Alex Lubowski](https://www.linkedin.com/in/aliaksandr-lubouski/)
 👉[Чат сообщества ☁️](https://t.me/CNCFMinskChat)
 
 ## Новости
