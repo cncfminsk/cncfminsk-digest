@@ -51,7 +51,7 @@ Google сообщает, что замедлит процесс найма на 
 
 ### [Весенняя серия вебинаров от VMWare](https://onlinexperiences.com/scripts/Server.nxp?LASCmd=AI%3A4%3BF%3AAPIUTILS!51004&PageID=E0CB07CF-B083-40E5-AF97-408F355E8F66)
 
-21 апреля - 4 июня 2020 / Серия обучающих вебинаров по различным продуктам и решениям VMware для специалистов в области ИТ, сетевой инфраструктуры и информационной безопасности: современный подход к балансировке сетевого трафика в ЦОД, Kubernetes от VMware, VMware Cloud Foundation – строим Software Defined Data Center правильно и легко, разработка мультиоблачных Kubernetes-приложений, сервис-меш. 
+21 апреля - 4 июня 2020 / Серия обучающих вебинаров по различным продуктам и решениям VMware для специалистов в области ИТ, сетевой инфраструктуры и информационной безопасности: современный подход к балансировке сетевого трафика в ЦОД, Kubernetes от VMware, VMware Cloud Foundation – строим Software Defined Data Center правильно и легко, разработка мультиоблачных Kubernetes-приложений, сервис-меш.
 
 ### [CNCF Project Webinar: What’s New in Kubernetes 1.18](https://www.ibm.com/easytools/runtime/hspx/prod/public/X0033/Webinars/docid/23aeb7c6d0974149af3bb67efd41e3be?x_view=X0033/Webinars/EventDetail)
 
