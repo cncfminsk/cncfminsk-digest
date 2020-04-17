@@ -49,10 +49,20 @@ Google сообщает, что замедлит процесс найма на 
 
 20 апреля 2020 / Присоединяйтесь к этому вебинару, чтобы узнать, как использовать AWS CloudFormation и AWS CDK для обеспечения и управления инфраструктурой, развертывания кода и автоматизации процессов релиза программного обеспечения.
 
+### [Весенняя серия вебинаров от VMWare](https://onlinexperiences.com/scripts/Server.nxp?LASCmd=AI%3A4%3BF%3AAPIUTILS!51004&PageID=E0CB07CF-B083-40E5-AF97-408F355E8F66)
+
+21 апреля - 4 июня 2020 / Серия обучающих вебинаров по различным продуктам и решениям VMware для специалистов в области ИТ, сетевой инфраструктуры и информационной безопасности: современный подход к балансировке сетевого трафика в ЦОД, Kubernetes от VMware, VMware Cloud Foundation – строим Software Defined Data Center правильно и легко, разработка мультиоблачных Kubernetes-приложений, сервис-меш. 
+
 ### [CNCF Project Webinar: What’s New in Kubernetes 1.18](https://www.ibm.com/easytools/runtime/hspx/prod/public/X0033/Webinars/docid/23aeb7c6d0974149af3bb67efd41e3be?x_view=X0033/Webinars/EventDetail)
 
 23 апреля 2020 / Команда разработчиков релиза расскажет о новых возможностях Kubernetes 1.18. В вебинаре участвуют: Jeremy Rickard, Enhancements Lead, Jorge Alacron, Release Lead, and Karen Chu, Communications Lead.
 
 ### [Breaking New Ground: Cloud Native Data Protection for Kubernetes](https://www.brighttalk.com/webcast/13935/390452?utm_source=brighttalk-portal&utm_medium=web&utm_content=cloud%20native&utm_campaign=webcasts-search-results-feed)
 
-30 апреля 202 / В ходе вебинара представители Dell EMC расскажут о том, какие новые возможности предоставляются разработчикам для защиты критически важных рабочих нагрузок, обеспечивая полностью автоматизированную схему защиты в процессе релиза, предлагая при этом кроссплатформенное управление защитой облачных приложений.
+30 апреля 2020 / В ходе вебинара представители Dell EMC расскажут о том, какие новые возможности предоставляются разработчикам для защиты критически важных рабочих нагрузок, обеспечивая полностью автоматизированную схему защиты в процессе релиза, предлагая при этом кроссплатформенное управление защитой облачных приложений.
+
+## Онлайн-митап CNCF Minsk
+
+### [Make developer’s life easer with k8s]( ++++ ПОПРАВЬ ССЫЛКУ ТУТ +++++ )
+
+24 Апреля 2020 / 18:00 Опыт использования Azure Kubernetes Service при создания гибридной платформы для микросервисов и onboarding feature teams. Митап с Александром Сенько - автором книги "Работа с BigData в облаках. Обработка и хранение данных с примерами из Microsoft Azure".
