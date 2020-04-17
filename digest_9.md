@@ -1,6 +1,6 @@
 ![CNCF Minsk cover](https://raw.githubusercontent.com/cncfminsk/digest/master/Digest_cover.jpg)
 
-Над дайджестом работали: [Viachaslau Kizimenko](https://www.linkedin.com/in/viachaslau-kizimenko-185144115/), [Egor Miasnikov](https://www.linkedin.com/in/miasnikov/) и [Alex Lubowski](https://www.linkedin.com/in/aliaksandr-lubouski/)
+Над дайджестом работали: [Viacheslav Kizimenko](https://www.linkedin.com/in/viachaslau-kizimenko-185144115/), [Egor Miasnikov](https://www.linkedin.com/in/miasnikov/) и [Alex Lubowski](https://www.linkedin.com/in/aliaksandr-lubouski/)
 👉[Чат сообщества ☁️](https://t.me/CNCFMinskChat)
 
 ## Новости
@@ -53,7 +53,7 @@ Google сообщает, что замедлит процесс найма на 
 
 21 апреля - 4 июня 2020 / Серия обучающих вебинаров по различным продуктам и решениям VMware для специалистов в области ИТ, сетевой инфраструктуры и информационной безопасности: современный подход к балансировке сетевого трафика в ЦОД, Kubernetes от VMware, VMware Cloud Foundation – строим Software Defined Data Center правильно и легко, разработка мультиоблачных Kubernetes-приложений, сервис-меш.
 
-### [CNCF Project Webinar: What’s New in Kubernetes 1.18](https://www.ibm.com/easytools/runtime/hspx/prod/public/X0033/Webinars/docid/23aeb7c6d0974149af3bb67efd41e3be?x_view=X0033/Webinars/EventDetail)
+### [CNCF Project Webinar: What’s New in Kubernetes 1.18](https://www.cncf.io/webinars/kubernetes-1-18/)
 
 23 апреля 2020 / Команда разработчиков релиза расскажет о новых возможностях Kubernetes 1.18. В вебинаре участвуют: Jeremy Rickard, Enhancements Lead, Jorge Alacron, Release Lead, and Karen Chu, Communications Lead.
 
