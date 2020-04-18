@@ -57,6 +57,10 @@ Google сообщает, что замедлит процесс найма на 
 
 23 апреля 2020 / Команда разработчиков релиза расскажет о новых возможностях Kubernetes 1.18. В вебинаре участвуют: Jeremy Rickard, Enhancements Lead, Jorge Alacron, Release Lead, and Karen Chu, Communications Lead.
 
+### [Azure Monitor Virtual Series](https://info.microsoft.com/Azure-Monitor-Virtual-Series-Registration.html)
+
+28 апреля 2020 / Серия вебинаров от Azure посвященная мониторингу и повышению производительности и доступности приложений, инфраструктуры и сетей.
+
 ### [Breaking New Ground: Cloud Native Data Protection for Kubernetes](https://www.brighttalk.com/webcast/13935/390452?utm_source=brighttalk-portal&utm_medium=web&utm_content=cloud%20native&utm_campaign=webcasts-search-results-feed)
 
 30 апреля 2020 / В ходе вебинара представители Dell EMC расскажут о том, какие новые возможности предоставляются разработчикам для защиты критически важных рабочих нагрузок, обеспечивая полностью автоматизированную схему защиты в процессе релиза, предлагая при этом кроссплатформенное управление защитой облачных приложений.
