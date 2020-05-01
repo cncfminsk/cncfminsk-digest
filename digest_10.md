@@ -15,6 +15,6 @@
 
 ## Онлайн-митап CNCF Minsk
 
-### [Make developer’s life easer with k8s](https://www.meetup.com/ru-RU/CNCFMinsk/events/270103941/)
+### [Sweet Home - Smart Home](https://www.meetup.com/ru-RU/CNCFMinsk/events/270343871/)
 
-24 Апреля 2020 / 18:00 Опыт использования Azure Kubernetes Service при создания гибридной платформы для микросервисов и onboarding feature teams. Митап с Александром Сенько - автором книги "Работа с BigData в облаках. Обработка и хранение данных с примерами из Microsoft Azure".
+6 Мая 2020 / 19:00 Насколько умен ваш дом? Приглашаем на наш онлайн-митап, на котором поделимся опытом, как сделать дом «умнее». Приходите, чтобы услышать советы и рекомендации наших экспертов и поделится своими!.
