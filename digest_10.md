@@ -13,7 +13,35 @@
 
 Aqua Security объявила, что Trivy, их открытый сканер уязвимостей, теперь доступен в качестве интегрированной опции на ряде платформ. Trivy способен обнаружить уязвимости в ряде операционных систем Linux, включая Alpine, RHEL, CentOS, Debian, Ubuntu, SUSE и Amazon Linux. Согласно данным Aqua, Trivy обладает высокой точностью обнаружения уязвимостей, особенно в Alpine Linux и RHEL/CentOS. Тэппэй Фукуда (Teppei Fukuda), OSS инженер Aqua Security, поделился анализом уязвимостей, обнаруженных в версии Alpine Linux несколькими сканерами уязвимостей, в которых Trivy был наиболее успешен.
 
+### [Oracle wins cloud computing deal with Zoom as video calls surge](https://www.reuters.com/article/us-oracle-zoom-video-commn/oracle-wins-cloud-computing-deal-with-zoom-as-video-calls-surge-idUSKCN22A1R9)
+
+Zoom Video Communications Inc заявила во вторник, что начала использовать службу облачных вычислений Oracle Corp, чтобы помочь справиться с ростом объемов онлайн-видеозвонков, вызванным новой пандемией коронавируса.
+
+### [Google Cloud revenue surge defies coronavirus turbulence](https://www.cloudpro.co.uk/cloud-essentials/public-cloud/8542/google-cloud-revenue-surge-defies-coronavirus-turbulence)
+
+Google Cloud преодолел текущую экономическую турбулентность, несмотря на то, что его материнская компания Alphabet начала ощущать некоторые негативные последствия. В первом квартале 2020 года облачный бизнес компании принес 2,78 млрд долларов дохода, что на 52% больше, чем в предыдущем году. По данным Business Insider, это соответствует его финансовым результатам за предыдущий квартал, при этом выручка составила 2,6 млрд долларов, что на 53% больше по сравнению с аналогичным периодом прошлого года.
+
+### [AWS revenue passes $10bn for the first time](https://www.cloudpro.co.uk/cloud-essentials/public-cloud/8547/aws-revenue-passes-10bn-for-the-first-time)
+
+Облачные вычисления Amazon также продолжают расти, несмотря на глобальную пандемию. Доходы веб-сервисов Amazon превысили 10 миллиардов долларов за первый квартал 2020 года, в результате чего технический гигант заработал более 40 миллиардов долларов.
+
+### [Flexera’s State of the Cloud report affirms enterprise multi-cloud – but warns over wasted spend](https://cloudcomputing-news.net/news/2020/apr/28/flexeras-state-of-the-cloud-report-affirms-enterprise-multi-cloud-but-warns-over-wasted-spend/)
+
+Каждое пятая компания тратит свыше 12 миллионов долларов США в год на публичное облако - и все же около четверти из этого - избыточный бюджет. Такие данные приведены в отчете о состоянии облачных технологий, опубликованному поставщиком программного обеспечения для управления IT Flexera. В исследовании, которое многие помнят как ведущий в отрасли отчет RightScale State of Cloud, было опрошено 750 лиц, принимающих решения и пользователей в области облачных вычислений, в отношении их стратегий, метрик и задач.
+
 ## Статьи
+
+### [23 KILLER Cloud-Native Development Principles and Practices](https://www.contino.io/insights/cloud-native-development-principles)
+
+23 приципа и практики для построения архитектуры и разработки cloud native приложений.
+
+### [Types of Cloud Computing - an Extensive Guide on Cloud Solutions and Technologies in 2020](https://kinsta.com/blog/types-of-cloud-computing/)
+
+Новые облачные продукты и услуги появляются практически ежедневно благодаря постоянным инновациям технических лидеров, включая Google, Amazon и Microsoft. Чтобы помочь вам сориентироваться в сложностях облачных вычислений, авторы подробно рассматривают доступные типы облачных вычислений. А также проливают свет на некоторые новые облачные технологии, которые набирают популярность.
+
+### [11 Lessons from Cloud Native Transformations](https://oteemo.com/2020/04/10/11-lessons-from-cloud-native-transformations/)
+
+Разработка Cloud Native платформы для вашей организации похожа на создание стартапа с нуля. Она требует дисциплины, культуры и планирования, но самое главное, она требует миссии и видения. Преобразование в облако, если оно будет сделано правильно, несомненно, принесет много преимуществ, таких как сокращение времени выхода на рынок, повышение надежности и доступности услуг, снижение совокупной стоимости владения и возможность быстрого внедрения инноваций. Специалисты Oteemo делятся своими советами по облачной трансформации компании.
 
 ### [Help the World by Healing Your NGINX Configuration](https://www.nginx.com/blog/help-the-world-by-healing-your-nginx-configuration/)
 
@@ -32,6 +60,10 @@ Aqua Security объявила, что Trivy, их открытый сканер
 ### [CNCF Project Webinar: Announcing Open Source gRPC Kotlin](https://www.cncf.io/webinars/announcing-open-source-grpc-kotlin/)
 
 Запись вебинара от 17 апреля. Поскольку разработчики работают над модернизацией приложений, им необходимы простые и масштабируемые базовые инструменты. В настоящее время Kotlin является вторым по популярности языком программирования на основе JVM и позволяет разработчикам создавать все, от мобильных приложений до облачных микросервисов. Чтобы помочь разработчикам модернизироваться, группа разработчиков представит проект gRPC с открытым исходным кодом Kotlin и расскажет, как его использовать.
+
+### [70 Episode - AWS TechChat](https://soundcloud.com/user-684142981/episode-70-march-april-tech-round-up)
+
+В 70 эпизоде AWS TechChat два эксперта AWS - Peter Stanski ( Sr Manager Solutions Architecture) и Shane Baldacchino (Solutions Architect ) обсуждают более 30 обновлений и новых возможностей AWS: 2 новых региона - Милан в Италии и Кейптаун в Южной Африке, обновление версий движка баз данных,  улучшение производительности систем ввода-вывода, Amazon EKS теперь поддерживает сервис-связанные роли, голосовая почта для Amazon Connect, новая версия Elastic Search.
 
 ## Онлайн-митап CNCF Minsk
 
