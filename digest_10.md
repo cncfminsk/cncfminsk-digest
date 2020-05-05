@@ -5,6 +5,10 @@
 
 ## Новости
 
+### [Cloud Native Computing Foundation Announces Helm Graduation](https://www.cncf.io/announcement/2020/04/30/cloud-native-computing-foundation-announces-helm-graduation/)
+
+30 апреля 2020 Cloud Native Computing Foundation (CNCF) объявил, о том, что менеджер пакетов Helm покинул инкубатор и стал десятым в почетном списке Graduted Projects, продемонстрировав стремительное принятие пользователями, открытый процесс управления и твердую приверженность сообществу, устойчивости и инклюзивности. "В силу своих тесных связей с комьюнити Kubernetes, Helm сотрудничает с CNCF с момента создания фонда", заявил Chris Aniszczyk, CTO/COO CNCF. "С момента присоединения к CNCF в качестве независимого проекта за пределами Kubernetes и с их недавним релизом v3 в прошлом году, проект доказал свою невероятную популярность среди конечных пользователей путем снижения барьера входа для установки и управления программным обеспечением в Kubernetes."
+
 ### [Announcing NGINX Ingress Controller for Kubernetes Release 1.7.0](https://www-nginx-com.cdn.ampproject.org/c/s/www.nginx.com/blog/announcing-nginx-ingress-controller-for-kubernetes-release-1-7-0/amp/)
 
 Анонсирован релиз 1.7.0 контроллера NGINX Ingress для Kubernetes. Этот релиз основан на развитии поддерживаемого решения Ingress для балансировки нагрузки на платформах Kubernetes, включая Amazon Elastic Container Service for Kubernetes (EKS), Azure Kubernetes Service (AKS), Google Kubernetes Engine (GKE), Red Hat OpenShift, IBM Cloud Private, Diamanti и др. Основные улучшения связаны с поддержкой Red Hat OpenShift, протоколов TCP, UDP, and TLS Passthrough.
