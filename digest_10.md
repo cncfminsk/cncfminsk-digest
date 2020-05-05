@@ -5,6 +5,10 @@
 
 ## Новости
 
+### [Cloud Native Computing Foundation Announces Helm Graduation](https://www.cncf.io/announcement/2020/04/30/cloud-native-computing-foundation-announces-helm-graduation/)
+
+30 апреля 2020 Cloud Native Computing Foundation (CNCF) объявил, о том, что менеджер пакетов Helm покинул инкубатор и стал десятым в почетном списке Graduted Projects, продемонстрировав стремительное принятие пользователями, открытый процесс управления и твердую приверженность сообществу, устойчивости и инклюзивности. "В силу своих тесных связей с комьюнити Kubernetes, Helm сотрудничает с CNCF с момента создания фонда", заявил Chris Aniszczyk, CTO/COO CNCF. "С момента присоединения к CNCF в качестве независимого проекта за пределами Kubernetes и с их недавним релизом v3 в прошлом году, проект доказал свою невероятную популярность среди конечных пользователей путем снижения барьера входа для установки и управления программным обеспечением в Kubernetes."
+
 ### [Announcing NGINX Ingress Controller for Kubernetes Release 1.7.0](https://www-nginx-com.cdn.ampproject.org/c/s/www.nginx.com/blog/announcing-nginx-ingress-controller-for-kubernetes-release-1-7-0/amp/)
 
 Анонсирован релиз 1.7.0 контроллера NGINX Ingress для Kubernetes. Этот релиз основан на развитии поддерживаемого решения Ingress для балансировки нагрузки на платформах Kubernetes, включая Amazon Elastic Container Service for Kubernetes (EKS), Azure Kubernetes Service (AKS), Google Kubernetes Engine (GKE), Red Hat OpenShift, IBM Cloud Private, Diamanti и др. Основные улучшения связаны с поддержкой Red Hat OpenShift, протоколов TCP, UDP, and TLS Passthrough.
@@ -31,6 +35,10 @@ Google Cloud преодолел текущую экономическую тур
 
 ## Статьи
 
+### [Kubernetes-as-a-Service: EKS vs. AKS vs. GKE](https://blog.alcide.io/kubernetes-as-a-service-eks-vs.-aks-vs.-gke)
+
+Уже на старте второго квартала 2020 года становится ясно, что в гонке за место лидера контейнерной оркестровки Kubernetes намерен остаться, заняв свое место как самая распространенная на сегодняшний день система с открытым исходным кодом для развертывания и управления масштабируемыми мультконтейнерными приложениями. В связи с недавним всплеском тенденции к развитию контейнерных приложений, автор статьи предлагает обсудить доступные сегодня управляемые сервисы Kubernetes и рассмотреть, что они предлагают в сравнении друг с другом.
+
 ### [23 KILLER Cloud-Native Development Principles and Practices](https://www.contino.io/insights/cloud-native-development-principles)
 
 23 приципа и практики для построения архитектуры и разработки cloud native приложений.
@@ -53,6 +61,10 @@ Google Cloud преодолел текущую экономическую тур
 
 6 мая 2020 / 19:00 Присоединяйтесь к бесплатному виртуальному мероприятию, в котором будут участвовать разработчики, работающие вместе над глобальным программным обеспечением, чтобы услышать анонсы от команды GitHub и увидеть вдохновляющие выступления разработчиков.
 
+### [Technology Radar Sneak Peek Webinar](https://www.thoughtworks.com/radar/technology-radar-webinar-vol-22)
+
+12 мая 2020. Подключайтесь к специальному вебинару с Zhamak Dehghani и James Lewis, в ходе которого вы получите уникальное представление о грядущем 22 выпуске "Technology Radar".
+
 ### [AWS Summit Online](https://aws.amazon.com/ru/events/summits/online/emea/)
 
 17 июня 2020 AWS Summit Online приглашает вас углубить знания в области облачных вычислений, независимо от того, только начинаете ли вы работать с облаками или являетесь продвинутым пользователем. Откроет конференцию доклад Werner Vogels, CTO Amazon.com. После основного доклада вы сможете выбрать то, что вам интересно из 55 сессий, разделенных на 11 треков: создание передовых архитектур, разработка приложений, DevOps и многое другое.
@@ -69,4 +81,4 @@ Google Cloud преодолел текущую экономическую тур
 
 ### [Sweet Home - Smart Home](https://www.meetup.com/ru-RU/CNCFMinsk/events/270343871/)
 
-6 Мая 2020 / 19:00 Насколько умен ваш дом? Приглашаем на наш онлайн-митап, на котором поделимся опытом, как сделать дом «умнее». Приходите, чтобы услышать советы и рекомендации наших экспертов и поделится своими!.
+6 Мая 2020 / 19:00 Насколько умен ваш дом? Приглашаем на наш онлайн-митап, на котором поделимся опытом, как сделать дом «умнее». Приходите, чтобы услышать советы и рекомендации наших экспертов и поделится своими!
